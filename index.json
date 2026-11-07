@@ -1,0 +1,11 @@
+{
+  "org": "plotly",
+  "repo": "dash-slicer",
+  "versions": [
+    {
+      "commit": "4b1223dcd29fc7523d5fe3efec02fd849518a603",
+      "tag": "",
+      "parsed_at": "2026-11-07T01:36:56.701743+00:00"
+    }
+  ]
+}
